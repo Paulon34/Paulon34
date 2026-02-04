@@ -7,8 +7,8 @@ Estudante de Ciência da Computação com formação técnica em Mecatrônica. A
 - **Backend/DB:** Firebase Realtime Database
 - **OS:** Linux (CachyOS / KDE Plasma)
 
-### 📊 Coding Activity (Real-time Metrics)
-`START_SECTION:waka`
-`END_SECTION:waka`
+## 📊 Coding Activity (Real-time Metrics)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 *“Building High-Performance Solutions with a Founder's Mindset.”*
