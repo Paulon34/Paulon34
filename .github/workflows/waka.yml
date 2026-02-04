@@ -1,9 +1,9 @@
-name: WakaTime Readme
+name: Waka Readme
 
 on:
-  schedule:
-    - cron: "0 0 * * *"   # todo dia 00:00 UTC
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 permissions:
   contents: write
@@ -12,19 +12,16 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Update README with WakaTime stats
-        uses: anmol098/waka-readme-stats@master
+      - uses: athul/waka-readme@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
-          SHOW_LANGUAGE: true
-          SHOW_PROJECTS: true
-          SHOW_EDITORS: true
-          SHOW_OS: true
-          SHOW_LINES_OF_CODE: true
-          SHOW_TOTAL_CODE_TIME: true
-          SHOW_UPDATED_DATE: true
-          SHOW_SHORT_INFO: true
+          SHOW_TITLE: true
+          TIME_RANGE: last_7_days
 
-          COMMIT_MESSAGE: "Update WakaTime stats"
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
+
+          # Isso aqui são as “barrinhas” (o gráfico em texto)
+          BLOCKS: "░▒▓█"
