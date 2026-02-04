@@ -3,7 +3,10 @@ name: Profile Metrics (Premium)
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"
+    # a cada 30 min, das 08:00 às 23:30 (horário de Brasília = UTC-3)
+    - cron: "0,30 11-23 * * *"
+    - cron: "0,30 0-2 * * *"
+
 
 
 permissions:
