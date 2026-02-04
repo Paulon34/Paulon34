@@ -18,9 +18,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
-          # últimos 7 dias (substitui TIME_RANGE)
-          WAKATIME_API_URL: "https://wakatime.com/api/v1/users/current/stats/last_7_days"
-
           SHOW_LANGUAGE: true
           SHOW_PROJECTS: true
           SHOW_EDITORS: true
