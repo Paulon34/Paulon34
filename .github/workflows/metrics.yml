@@ -3,7 +3,8 @@ name: Profile Metrics (Premium)
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # todo dia 00:00 UTC
+    - cron: "*/30 * * * *"
+
 
 permissions:
   contents: write
