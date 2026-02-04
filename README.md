@@ -38,16 +38,21 @@ JavaScript   57 mins         █████████████████
 <!--END_SECTION:waka-->
 
 ---
+## 📊 Coding Activity (WakaTime)
+<p align="left">
+  <img src="./github-metrics/wakatime.svg" alt="WakaTime stats" />
+</p>
+
 ## 📈 GitHub Overview
-
 <p align="left">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Paulon34&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Paulon34&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
+  <img src="./github-metrics/overview.svg" alt="GitHub metrics overview" />
 </p>
 
+## 🧠 Languages
 <p align="left">
-  <img height="165" src="https://streak-stats.demolab.com?user=Paulon34&theme=github-dark&hide_border=true" />
+  <img src="./github-metrics/languages.svg" alt="Top languages" />
 </p>
+
 
 
 
