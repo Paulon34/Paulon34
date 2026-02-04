@@ -1,0 +1,50 @@
+name: Profile Metrics (Premium)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # todo dia 00:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # 1) Card principal (overview)
+      - name: Metrics (overview)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          user: Paulon34
+          filename: github-metrics/overview.svg
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: America/Sao_Paulo
+
+      # 2) Linguagens (mais “recrutador friendly”)
+      - name: Metrics (languages)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          user: Paulon34
+          filename: github-metrics/languages.svg
+          base: ""
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_details: bytes-size, percentage
+
+      # 3) WakaTime (vira imagem local também)
+      - name: Metrics (wakatime)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          user: Paulon34
+          filename: github-metrics/wakatime.svg
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_sections: time, languages, editors, os
