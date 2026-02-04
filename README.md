@@ -41,14 +41,13 @@ JavaScript   57 mins         █████████████████
 
 ## 📈 GitHub Overview
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Paulon34&show_icons=true&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulon34&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Paulon34&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulon34&layout=compact&langs_count=8" />
 </p>
 
 <p align="left">
-  <img height="160" src="https://streak-stats.demolab.com?user=Paulon34" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Paulon34" />
 </p>
-
 
 ---
 
