@@ -8,5 +8,5 @@ Estudante de Ciência da Computação com formação técnica em Mecatrônica. A
 - **OS:** Linux (CachyOS / KDE Plasma)
 
 ### 📊 Coding Activity (Real-time Metrics)
-`
+---
 *“Building High-Performance Solutions with a Founder's Mindset.”*
