@@ -24,4 +24,4 @@ jobs:
           SHOW_MASKED_TIME: true
 
           # Isso aqui são as “barrinhas” (o gráfico em texto)
-          BLOCKS: "░▒▓█"
+          BLOCKS: "▁▂▃▄▅▆▇█" 
