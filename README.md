@@ -9,6 +9,15 @@ Estudante de Ciência da Computação com formação técnica em Mecatrônica. A
 
 ## 📊 Coding Activity (Real-time Metrics)
 <!--START_SECTION:waka-->
+
+```txt
+From: 28 January 2026 - To: 04 February 2026
+
+Total Time: 57 mins
+
+JavaScript   57 mins         █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 ---
 *“Building High-Performance Solutions with a Founder's Mindset.”*
