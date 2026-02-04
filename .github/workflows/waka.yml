@@ -2,7 +2,7 @@ name: WakaTime Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # todo dia
+    - cron: "0 0 * * *"   # todo dia 00:00 UTC
   workflow_dispatch:
 
 permissions:
@@ -12,11 +12,22 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - name: Update README with WakaTime stats
+        uses: anmol098/waka-readme-stats@master
         with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_TOTAL: true
-          SHOW_TIME: true
-          TIME_RANGE: last_7_days
-          LANG_COUNT: 6
+
+          # últimos 7 dias (substitui TIME_RANGE)
+          WAKATIME_API_URL: "https://wakatime.com/api/v1/users/current/stats/last_7_days"
+
+          SHOW_LANGUAGE: true
+          SHOW_PROJECTS: true
+          SHOW_EDITORS: true
+          SHOW_OS: true
+          SHOW_LINES_OF_CODE: true
+          SHOW_TOTAL_CODE_TIME: true
+          SHOW_UPDATED_DATE: true
+          SHOW_SHORT_INFO: true
+
+          COMMIT_MESSAGE: "Update WakaTime stats"
