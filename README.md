@@ -1,59 +1,59 @@
-# 🚀 Paulo Henrique — Full Stack Developer & Founder  
-**Builder focado em performance, automação e produto.**  
-Estudante de Ciência da Computação com formação técnica em Mecatrônica. Atualmente construindo o **ZAQUION OS**, um ecossistema PWA/SPA de alta performance para o mercado financeiro, com automação e gestão inteligente de dados.
+<div align="center">
 
-**🌎 Language:** PT-BR | [EN](./README.en.md)
+# 🚀 Paulo Henrique
+**Full Stack Developer • Performance • Automação**
+
+<a href="https://www.linkedin.com/in/paulo-henrique-dev-fullstack/">LinkedIn</a>
+&nbsp;•&nbsp;
+<a href="mailto:ph3073610@gmail.com">Email</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/Paulon34/ZAQUION-OS">ZAQUION OS</a>
+
+🌎 **PT-BR** | <a href="./README.en.md">EN</a>
+
+</div>
 
 ---
 
-## 🔥 Featured Project — ZAQUION OS
-**High-performance PWA/SPA ecosystem for financial workflows.**  
-- ⚡ **Foco:** performance, automação, UX rápida e confiável  
-- 🧠 **Objetivo:** reduzir fricção operacional com dados e rotinas inteligentes  
-- 🧩 **Stack:** JavaScript (ES6+), Firebase, PWA/SPA  
-- 📌 **Status:** em desenvolvimento (roadmap e releases em evolução)
+## 🔥 Em construção: ZAQUION OS
+**Ecossistema PWA/SPA de alta performance para fluxos financeiros — automação, velocidade e confiabilidade.**
+
+- ⚡ **Foco:** performance, UX rápida, rotinas automatizadas
+- 🧩 **Stack:** JavaScript (ES6+), Firebase, PWA/SPA, Google Apps Script (GAS)
+- 📌 **Status:** MVP em desenvolvimento (roadmap em evolução)
 
 👉 **Repo:** https://github.com/Paulon34/ZAQUION-OS
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:** JavaScript (ES6+), Google Apps Script (GAS)  
-**Backend/DB:** Firebase Realtime Database  
-**Environment:** Linux (CachyOS / KDE Plasma), VS Code, Git/GitHub
+## 🛠️ Stack
+- **Languages:** JavaScript (ES6+), Google Apps Script (GAS)
+- **Backend/DB:** Firebase Realtime Database
+- **Environment:** Linux (CachyOS / KDE Plasma), VS Code, Git/GitHub
 
 ---
 
-## 📊 Coding Activity (WakaTime)
-<!--START_SECTION:waka-->
+## 📊 Métricas
 
-```txt
-From: 29 January 2026 - To: 05 February 2026
-
-Total Time: 1 hr 5 mins
-
-JavaScript   1 hr 5 mins     █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
-
----
-## 📊 Coding Activity (WakaTime)
-<p align="left">
-  <img src="./github-metrics/wakatime.svg" alt="WakaTime stats" />
-</p>
-
-## 📈 GitHub Overview
-<p align="left">
-  <img src="./github-metrics/overview.svg" alt="GitHub metrics overview" />
-</p>
-
-## 🧠 Languages
-<p align="left">
-  <img src="./github-metrics/languages.svg" alt="Top languages" />
-</p>
-
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./github-metrics/overview.svg" height="320" alt="GitHub overview" />
+      </td>
+      <td align="center" width="50%">
+        <img src="./github-metrics/languages.svg" height="180" alt="Top languages" />
+      </td>
+    </tr>
+  </table>
+<table>
+  <tr>
+    <td>
+      <img src="./github-metrics/wakatime.svg" height="180" alt="WakaTime (last 7 days)" />
+    </td>
+  </tr>
+</table>
+</div>
 
 
 ---
