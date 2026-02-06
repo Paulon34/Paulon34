@@ -1,37 +1,59 @@
-# 🚀 Paulo Henrique — Full Stack Developer & Founder  
-**Performance-driven builder focused on automation and product.**  
-Computer Science student with a technical background in Mechatronics. Currently building **ZAQUION OS**, a high-performance PWA/SPA ecosystem for financial workflows, with automation and intelligent data management.
+<div align="center">
 
-**🌎 Language:** [PT-BR](./README.md) | EN
+# 🚀 Paulo Henrique
+**Full Stack Developer • Performance • Automation**
+
+<a href="https://www.linkedin.com/in/paulo-henrique-dev-fullstack/">LinkedIn</a>
+&nbsp;•&nbsp;
+<a href="mailto:ph3073610@gmail.com">Email</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/Paulon34/ZAQUION-OS">ZAQUION OS</a>
+
+🌎 <a href="./README.md">PT-BR</a> | **EN**
+
+</div>
 
 ---
 
-## 🔥 Featured Project — ZAQUION OS
-**High-performance PWA/SPA ecosystem for financial workflows.**  
-- ⚡ **Focus:** performance, automation, reliable UX  
-- 🧠 **Goal:** reduce operational friction with data + smart routines  
-- 🧩 **Stack:** JavaScript (ES6+), Firebase, PWA/SPA  
-- 📌 **Status:** in development (roadmap and releases evolving)
+## 🔥 Building: ZAQUION OS
+**A high-performance PWA/SPA ecosystem for financial workflows — automation, speed, and reliability.**
+
+- ⚡ **Focus:** performance, fast UX, automated routines
+- 🧩 **Stack:** JavaScript (ES6+), Firebase, PWA/SPA, Google Apps Script (GAS)
+- 📌 **Status:** MVP in progress (roadmap evolving)
 
 👉 **Repo:** https://github.com/Paulon34/ZAQUION-OS
 
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** JavaScript (ES6+), Google Apps Script (GAS)  
-**Backend/DB:** Firebase Realtime Database  
-**Environment:** Linux (CachyOS / KDE Plasma), VS Code, Git/GitHub
+- **Languages:** JavaScript (ES6+), Google Apps Script (GAS)
+- **Backend/DB:** Firebase Realtime Database
+- **Environment:** Linux (CachyOS / KDE Plasma), VS Code, Git/GitHub
 
 ---
 
-## 📊 Coding Activity (WakaTime)
-WakaTime metrics are available in the main profile README (PT-BR).
+## 📊 Métricas
 
----
-
-## 📈 GitHub Overview
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Paulon34&show_icons=true&hide_title=true&hide_rank=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulon34&layout=compact" />
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./github-metrics/overview.svg" height="320" alt="GitHub overview" />
+      </td>
+      <td align="center" width="50%">
+        <img src="./github-metrics/languages.svg" height="180" alt="Top languages" />
+      </td>
+    </tr>
+  </table>
+<table>
+  <tr>
+    <td>
+      <img src="./github-metrics/wakatime.svg" height="180" alt="WakaTime (last 7 days)" />
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
