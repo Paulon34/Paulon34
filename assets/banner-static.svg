@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Paulo Henrique</title>
+  <desc id="desc">Banner estático do perfil — terminal, nome e foco em Linux, DevOps e IA.</desc>
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0 L0 48 M24 0 L0 24 M48 24 L24 48" stroke="#263329" stroke-width="1" opacity="0.55"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" fill="#070A09"/>
+  <rect width="1200" height="360" fill="url(#grid)"/>
+  <line x1="40" y1="360" x2="420" y2="0" stroke="#C7F04B" stroke-width="2" opacity="0.35"/>
+  <line x1="720" y1="360" x2="1160" y2="0" stroke="#00E894" stroke-width="2" opacity="0.25"/>
+  <rect x="36" y="48" width="1128" height="264" rx="14" fill="#101512" fill-opacity="0.92" stroke="#263329" stroke-width="2"/>
+  <rect x="36" y="48" width="1128" height="36" rx="14" fill="#0C100E"/>
+  <rect x="36" y="70" width="1128" height="14" fill="#0C100E"/>
+  <circle cx="61" cy="66" r="5" fill="#FF5F56"/>
+  <circle cx="79" cy="66" r="5" fill="#FFBD2E"/>
+  <circle cx="97" cy="66" r="5" fill="#27C93F"/>
+  <text x="110" y="70" fill="#9BA7A0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">paulo@ryoku:~</text>
+  <text x="1040" y="70" fill="#64786E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">sys · profile</text>
+  <text x="64" y="126" fill="#00E894" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18">&gt; whoami</text>
+  <text x="64" y="188" fill="#F5F7F3" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="48" font-weight="700">PAULO HENRIQUE</text>
+  <rect x="64" y="206" width="280" height="3" fill="#C7F04B"/>
+  <text x="64" y="242" fill="#00E894" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="22">// Linux &amp; Infrastructure</text>
+  <text x="820" y="130" fill="#9BA7A0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">role</text>
+  <text x="900" y="130" fill="#F5F7F3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">CS · Mechatronics · IT</text>
+  <text x="820" y="158" fill="#9BA7A0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">focus</text>
+  <text x="900" y="158" fill="#F5F7F3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">Linux · DevOps · AI</text>
+  <text x="820" y="186" fill="#9BA7A0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">status</text>
+  <text x="900" y="186" fill="#F5F7F3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">open to remote</text>
+  <line x1="36" y1="301" x2="1164" y2="301" stroke="#263329"/>
+  <text x="64" y="328" fill="#9BA7A0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">github.com/Paulon34</text>
+  <text x="920" y="328" fill="#788878" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">lime · terminal · systems</text>
+</svg>
