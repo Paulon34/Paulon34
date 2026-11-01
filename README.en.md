@@ -13,7 +13,8 @@
 **Linux & Infrastructure · Software · AI & Automation · Open Source**
 
 [![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-00bff4?style=for-the-badge&logo=firefoxbrowser&logoColor=081016)](https://portfolio-dhm.pages.dev)
-[![Open Source](https://img.shields.io/badge/PORTFOLIO_STARTER-101922?style=for-the-badge&logo=github&logoColor=00bff4)](https://github.com/Paulon34/portfolio-starter)
+[![Ryoku Desktop](https://img.shields.io/badge/RYOKU_DESKTOP-101922?style=for-the-badge&logo=nixos&logoColor=00bff4)](https://github.com/Paulon34/ryoku-desktop)
+[![Portfolio Starter](https://img.shields.io/badge/PORTFOLIO_STARTER-101922?style=for-the-badge&logo=github&logoColor=00bff4)](https://github.com/Paulon34/portfolio-starter)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-101922?style=for-the-badge&logo=linkedin&logoColor=00bff4)](https://www.linkedin.com/in/paulo-henrique-dev-fullstack/)
 
 <sub>Obsidian on GitHub · Explore Electric Blue and Light Pro themes on the <a href="https://portfolio-dhm.pages.dev">live site</a>.</sub>
@@ -34,8 +35,11 @@ I'm interested in **remote** opportunities across infrastructure, software devel
 paulo@ryoku:~$ focus --list
 linux · infrastructure · networks · software · AI · automation · open source
 
-paulo@ryoku:~$ projects --featured
-portfolio-starter · ryoku · jarvis · homelab
+paulo@ryoku:~$ projects --open-source
+ryoku-desktop · portfolio-starter
+
+paulo@ryoku:~$ projects --in-progress
+jarvis (private) · homelab
 ~~~
 
 ### <code>// stack in focus</code>
@@ -55,19 +59,49 @@ portfolio-starter · ryoku · jarvis · homelab
 
 </div>
 
-### <code>// featured projects</code>
+### <code>// open-source projects</code>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [Ryoku Desktop](https://github.com/Paulon34/ryoku-desktop)
+
+A **reproducible NixOS desktop** with Hyprland, the **Quattro and Islands** shell styles, **Material You** colors and the **Ryoku Settings** app (Qt 6/C++). Ships a review-first hardware bootstrap and **Minimal/Full** profiles.
+
+`NixOS` `Hyprland` `Quickshell` `Qt 6` `C++` · MIT licensed
+
+**[Public source →](https://github.com/Paulon34/ryoku-desktop)**
+
+</td>
+<td width="50%" valign="top">
+
+#### [Portfolio Starter](https://github.com/Paulon34/portfolio-starter)
+
+My first **open-source** template: a React and TypeScript portfolio with three themes, PT/EN, responsive design and résumé PDFs — with fictional data, ready to adapt.
+
+`React` `TypeScript` `Vite`
+
+**[Public source →](https://github.com/Paulon34/portfolio-starter)**
+
+</td>
+</tr>
+</table>
+
+### <code>// other projects</code>
 
 | Project | What it does | Access |
 | :--- | :--- | :--- |
-| **[Portfolio Starter](https://github.com/Paulon34/portfolio-starter)** | My first **open-source** template: React, TypeScript, three themes, PT/EN, responsive design and résumé PDFs. | **[Public source](https://github.com/Paulon34/portfolio-starter)** |
 | **[Portfolio 3.0](https://portfolio-dhm.pages.dev)** | My live website on Cloudflare Pages, with privately managed content and automated GitHub deployments. | **[Live site](https://portfolio-dhm.pages.dev)** |
-| **Ryoku NixOS** | My personal, declarative NixOS environment for daily Linux use and experimentation. | Private |
-| **JARVIS** | Voice and AI assistant undergoing incremental development. | In development |
-| **HomeLab & Automation** | Self-hosted services, virtualization, containers, private networking and automations. | Private infrastructure |
+| **JARVIS** | Voice and AI assistant undergoing incremental development. | Private · in development |
+| **HomeLab & Automation** | Area of hands-on experience: self-hosted services, virtualization, containers, private networking and automations. | Private infrastructure |
 
 > Private repositories and infrastructure details stay private. Public projects have direct links above.
 
 ### <code>// how my portfolio ships</code>
+
+<details>
+<summary>Portfolio publishing flow</summary>
 
 ~~~text
 Private Portfolio Admin
@@ -82,11 +116,13 @@ Cloudflare Pages
 portfolio-dhm.pages.dev  ✓
 ~~~
 
+</details>
+
 The **reusable, fictional-data frontend** is available as [Portfolio Starter](https://github.com/Paulon34/portfolio-starter). My private admin backend and HomeLab infrastructure are not published.
 
 ### <code>// my journey</code>
 
-I learn by building: studying Computer Science, applying my Mechatronics background, and working on Linux, infrastructure and automation projects. I enjoy documenting what I build and turning ideas into useful systems.
+I learn by building: studying Computer Science, applying my Mechatronics background, and working on Linux, infrastructure and automation projects. I enjoy documenting what I build and turning ideas into useful systems — Ryoku Desktop grew out of my own daily NixOS setup.
 
 ### <code>// contact</code>
 
