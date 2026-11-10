@@ -1,137 +1,157 @@
-<!-- GitHub profile • PT-BR | English: ./README.en.md | Static Obsidian hero: ./assets/portfolio-obsidian.svg -->
-
+<!-- PAULO.DEV / RONIN GOLD — GitHub profile PT-BR. English: README.en.md -->
 <div align="center">
 
 **🇧🇷 Português** · [🇬🇧 English](./README.en.md)
 
 <a href="https://portfolio-dhm.pages.dev">
-  <img src="./assets/portfolio-obsidian.svg" width="100%" alt="Paulo DEV — banner Obsidian com identidade visual do portfólio" />
+  <img src="./assets/ronin-gold.svg" width="100%" alt="Paulo DEV — banner preto e dourado com lua, torii e katana, em estilo samurai cyberpunk" />
 </a>
 
-<br/>
+<a href="https://github.com/Paulon34">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=20&amp;duration=2800&amp;pause=1100&amp;color=E0B866&amp;center=true&amp;vCenter=true&amp;width=920&amp;height=48&amp;lines=LINUX+%2B+INFRASTRUCTURE;SOFTWARE+%2B+AUTOMATION;RYOKU+OS+%2F+OPEN+SOURCE;CODE.+DISCIPLINE.+BUILD." alt="Apresentação animada: Linux, infraestrutura, software, automação e Ryoku OS" />
+</a>
 
-**Linux & Infrastructure · Software · AI & Automation · Open Source**
+**「ものづくりの道」 · Criar, aprender e evoluir.**
 
-[![Portfólio](https://img.shields.io/badge/ABRIR_PORTF%C3%93LIO-00bff4?style=for-the-badge&logo=firefoxbrowser&logoColor=081016)](https://portfolio-dhm.pages.dev)
-[![Ryoku Desktop](https://img.shields.io/badge/RYOKU_DESKTOP-101922?style=for-the-badge&logo=nixos&logoColor=00bff4)](https://github.com/Paulon34/ryoku-desktop)
-[![Portfolio Starter](https://img.shields.io/badge/PORTFOLIO_STARTER-101922?style=for-the-badge&logo=github&logoColor=00bff4)](https://github.com/Paulon34/portfolio-starter)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-101922?style=for-the-badge&logo=linkedin&logoColor=00bff4)](https://www.linkedin.com/in/paulo-henrique-dev-fullstack/)
+[![Portfólio](https://img.shields.io/badge/PORTF%C3%93LIO-0B0B0C?style=for-the-badge&logo=firefoxbrowser&logoColor=E0B866&labelColor=101011)](https://portfolio-dhm.pages.dev)
+[![Ryoku OS](https://img.shields.io/badge/RYOKU_OS-0B0B0C?style=for-the-badge&logo=linux&logoColor=E0B866&labelColor=101011)](https://github.com/Paulon34/ryoku-os)
+[![Ryoku Desktop](https://img.shields.io/badge/RYOKU_DESKTOP-0B0B0C?style=for-the-badge&logo=nixos&logoColor=E0B866&labelColor=101011)](https://github.com/Paulon34/ryoku-desktop)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B0B0C?style=for-the-badge&logo=linkedin&logoColor=E0B866&labelColor=101011)](https://www.linkedin.com/in/paulo-henrique-dev-fullstack/)
 
-<sub>Obsidian aqui no GitHub · Veja também os temas Electric Blue e Light Pro no <a href="https://portfolio-dhm.pages.dev">site ao vivo</a>.</sub>
+<sub>Uma estética nova para a mesma identidade: Linux, infraestrutura, software, IA e projetos open source. O portfólio mantém seus outros temas.</sub>
 
+<img src="./assets/ronin-divider.svg" width="100%" alt="Divisor visual Ronin Gold" />
 </div>
 
----
-
-### <code>$ whoami</code>
+### `01 // whoami — o ronin por trás do terminal`
 
 Sou **Paulo Henrique**, estudante de **Ciência da Computação** e técnico em **Mecatrônica**, com atuação em **infraestrutura e suporte de TI**.
 
-Construo, conecto e automatizo tecnologia. Trabalho com **Linux, Windows, redes, APIs, Docker e automações com n8n** no estágio de TI na **Indufix**. Antes, trabalhei com **atendimento receptivo ao cliente na Teleperformance**, desenvolvendo comunicação, escuta ativa e atendimento não técnico.
+Construo, conecto e automatizo tecnologia. No estágio de TI na **Indufix**, trabalho com **Linux, Windows, redes, APIs, Docker e automações com n8n**. Antes, trabalhei com **atendimento receptivo na Teleperformance**, desenvolvendo comunicação, escuta ativa e atendimento não técnico.
 
 Busco oportunidades **remotas** para continuar evoluindo em infraestrutura, desenvolvimento de software e automação.
 
-~~~text
-paulo@ryoku:~$ focus --list
-linux · infraestrutura · redes · software · IA · automação · open source
+```console
+paulo@ryoku:~$ ./ronin --status
+[ONLINE] Linux & Infrastructure  /  Software  /  AI & Automation
+[BUILD]  Ryoku Desktop + Ryoku OS (Debian modular)
+[LAB]    JARVIS (privado) + HomeLab
+[MODE]   aprender → construir → documentar → repetir
+```
 
-paulo@ryoku:~$ projects --open-source
-ryoku-desktop · portfolio-starter
-
-paulo@ryoku:~$ projects --in-progress
-jarvis (privado) · homelab
-~~~
-
-### <code>// stack em foco</code>
+### `02 // arsenal — minha stack`
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Linux-0b1219?style=for-the-badge&logo=linux&logoColor=00c8f7" alt="Linux" />
-<img src="https://img.shields.io/badge/NixOS-0b1219?style=for-the-badge&logo=nixos&logoColor=00c8f7" alt="NixOS" />
-<img src="https://img.shields.io/badge/Docker-0b1219?style=for-the-badge&logo=docker&logoColor=00c8f7" alt="Docker" />
-<img src="https://img.shields.io/badge/TypeScript-0b1219?style=for-the-badge&logo=typescript&logoColor=00c8f7" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-0b1219?style=for-the-badge&logo=react&logoColor=00c8f7" alt="React" />
-<img src="https://img.shields.io/badge/Proxmox-0b1219?style=for-the-badge&logo=proxmox&logoColor=00c8f7" alt="Proxmox" />
-<img src="https://img.shields.io/badge/Tailscale-0b1219?style=for-the-badge&logo=tailscale&logoColor=00c8f7" alt="Tailscale" />
-<img src="https://img.shields.io/badge/n8n-0b1219?style=for-the-badge&logo=n8n&logoColor=00c8f7" alt="n8n" />
-<img src="https://img.shields.io/badge/Zabbix-0b1219?style=for-the-badge&logo=zabbix&logoColor=00c8f7" alt="Zabbix" />
-<img src="https://img.shields.io/badge/Git-0b1219?style=for-the-badge&logo=git&logoColor=00c8f7" alt="Git" />
-
+<img src="https://img.shields.io/badge/Linux-0B0B0C?style=for-the-badge&logo=linux&logoColor=E0B866" alt="Linux" />
+<img src="https://img.shields.io/badge/NixOS-0B0B0C?style=for-the-badge&logo=nixos&logoColor=E0B866" alt="NixOS" />
+<img src="https://img.shields.io/badge/Debian-0B0B0C?style=for-the-badge&logo=debian&logoColor=E0B866" alt="Debian" />
+<img src="https://img.shields.io/badge/Docker-0B0B0C?style=for-the-badge&logo=docker&logoColor=E0B866" alt="Docker" />
+<img src="https://img.shields.io/badge/Proxmox-0B0B0C?style=for-the-badge&logo=proxmox&logoColor=E0B866" alt="Proxmox" />
+<img src="https://img.shields.io/badge/Tailscale-0B0B0C?style=for-the-badge&logo=tailscale&logoColor=E0B866" alt="Tailscale" />
+<img src="https://img.shields.io/badge/Zabbix-0B0B0C?style=for-the-badge&logo=zabbix&logoColor=E0B866" alt="Zabbix" />
+<img src="https://img.shields.io/badge/n8n-0B0B0C?style=for-the-badge&logo=n8n&logoColor=E0B866" alt="n8n" />
+<br/>
+<img src="https://img.shields.io/badge/TypeScript-0B0B0C?style=for-the-badge&logo=typescript&logoColor=E0B866" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-0B0B0C?style=for-the-badge&logo=react&logoColor=E0B866" alt="React" />
+<img src="https://img.shields.io/badge/Git-0B0B0C?style=for-the-badge&logo=git&logoColor=E0B866" alt="Git" />
+<img src="https://img.shields.io/badge/Qt_6-0B0B0C?style=for-the-badge&logo=qt&logoColor=E0B866" alt="Qt 6" />
 </div>
 
-### <code>// projetos open source</code>
+### `03 // quests — projetos em destaque`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### [Ryoku Desktop](https://github.com/Paulon34/ryoku-desktop)
+**🐧 [Ryoku Desktop](https://github.com/Paulon34/ryoku-desktop)**
 
-Desktop **NixOS reproduzível** com Hyprland, estilos de shell **Quattro e Ilhas**, cores **Material You** e o aplicativo **Ryoku Settings** (Qt 6/C++). Inclui bootstrap de hardware com revisão humana e perfis **Minimal/Full**.
+Desktop **NixOS reproduzível**, com Hyprland, DMS/Quickshell, estilos **Quattro & Islands**, cores **Material You** e o aplicativo **Ryoku Settings** (Qt 6/C++).
 
-`NixOS` `Hyprland` `Quickshell` `Qt 6` `C++` · licença MIT
-
-**[Código público →](https://github.com/Paulon34/ryoku-desktop)**
+`NixOS` `Hyprland` `QML` `Qt 6` `C++` · MIT
 
 </td>
 <td width="50%" valign="top">
 
-#### [Portfolio Starter](https://github.com/Paulon34/portfolio-starter)
+**⚔️ [Ryoku OS](https://github.com/Paulon34/ryoku-os)**
 
-Meu primeiro template **open source**: portfólio em React e TypeScript com três temas, PT/EN, responsividade e currículos em PDF — com dados fictícios, pronto para adaptar.
+Projeto em desenvolvimento: levar a experiência Ryoku para o **Debian 13**, com Niri, desktop modular e a proposta de perfis reproduzíveis.
+
+`Debian` `Niri` `Home Manager` `DMS` · em desenvolvimento
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🧩 [Portfolio Starter](https://github.com/Paulon34/portfolio-starter)**
+
+Template **open source** com React, TypeScript, Vite, três temas, PT/EN e layout responsivo. Dados de exemplo para quem quiser adaptar.
 
 `React` `TypeScript` `Vite`
 
-**[Código público →](https://github.com/Paulon34/portfolio-starter)**
+</td>
+<td width="50%" valign="top">
+
+**🌐 [Portfólio 3.0](https://portfolio-dhm.pages.dev)**
+
+Portfólio publicado na Cloudflare Pages, com conteúdo administrado privadamente e deploy automatizado. Código reutilizável disponível no **Portfolio Starter**.
+
+`Cloudflare Pages` `CI/CD` `Portfolio`
 
 </td>
 </tr>
 </table>
 
-### <code>// outros projetos</code>
-
-| Projeto | O que é | Acesso |
-| :--- | :--- | :--- |
-| **[Portfolio 3.0](https://portfolio-dhm.pages.dev)** | Meu site publicado na Cloudflare Pages, com conteúdo administrado privadamente e deploy automático via GitHub. | **[Ver site](https://portfolio-dhm.pages.dev)** |
-| **JARVIS** | Assistente de voz e IA em desenvolvimento incremental. | Privado · em desenvolvimento |
-| **HomeLab & Automação** | Área de experiência: serviços self-hosted, virtualização, containers, rede privada e automações. | Infraestrutura privada |
-
-> Repositórios e detalhes de infraestrutura privados permanecem privados. Os projetos públicos têm links diretos acima.
-
-### <code>// como publico meu portfolio</code>
-
 <details>
-<summary>Fluxo de publicação do portfólio</summary>
+<summary><b>🎮 Missões secundárias — laboratório & automação</b></summary>
 
-~~~text
-Portfolio Admin privado
-        │  editar → validar → aprovar
-        ▼
-GitHub (repositório privado)
-        │  commit na branch main
-        ▼
-Cloudflare Pages
-        │  build aprovado
-        ▼
-portfolio-dhm.pages.dev  ✓
-~~~
+| Projeto | O que estou construindo | Visibilidade |
+| :-- | :-- | :-- |
+| **JARVIS** | Assistente de voz e IA em desenvolvimento incremental | Privado |
+| **HomeLab** | Virtualização, serviços self-hosted, redes privadas e containers | Infraestrutura privada |
+| **Automação** | Integrações e rotinas com n8n, APIs e Linux | Estudos e projetos |
+
+O código do meu painel administrativo e os detalhes da infraestrutura permanecem privados. Os links públicos acima levam apenas aos projetos publicados.
 
 </details>
 
-O código **reutilizável e sem dados pessoais** está no [Portfolio Starter](https://github.com/Paulon34/portfolio-starter). O painel administrativo e a infraestrutura do HomeLab não são publicados.
+### `04 // player stats — contribuições`
 
-### <code>// minha trajetória</code>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Paulon34&amp;theme=dark&amp;hide_border=true&amp;background=08090B&amp;ring=D9AD62&amp;fire=D9AD62&amp;currStreakLabel=E4C58C&amp;sideLabels=E4C58C&amp;dates=AA9876&amp;stroke=5D482B" width="88%" alt="Estatísticas de contribuições GitHub" />
+</div>
 
-Minha base é a prática: estudo Ciência da Computação, trago a formação técnica em Mecatrônica e desenvolvo projetos em Linux, infraestrutura e automação. Gosto de documentar o que construo e transformar aprendizado em sistemas úteis — o Ryoku Desktop nasceu assim, do meu ambiente NixOS diário.
+<sub>Os números são carregados por um serviço externo e podem demorar ou ficar indisponíveis temporariamente.</sub>
 
-### <code>// contato</code>
+### `05 // jornada — disciplina de desenvolvimento`
+
+Minha base é a prática: estudo Ciência da Computação, aplico minha formação técnica em Mecatrônica e desenvolvo projetos de Linux, infraestrutura e automação. Gosto de documentar o que construo e transformar aprendizado em ferramentas úteis — o Ryoku Desktop nasceu assim, do meu ambiente NixOS diário.
+
+<details>
+<summary><b>🛠️ Como publico meu portfólio</b></summary>
+
+```text
+Portfolio Admin privado
+        │ editar → validar → aprovar
+        ▼
+GitHub (repositório privado)
+        │ commit aprovado
+        ▼
+Cloudflare Pages
+        │ build
+        ▼
+portfolio-dhm.pages.dev
+```
+
+O frontend reutilizável e sem dados pessoais está no [Portfolio Starter](https://github.com/Paulon34/portfolio-starter).
+
+</details>
+
+### `06 // guild — contato`
 
 **[🌐 Portfólio](https://portfolio-dhm.pages.dev)** · **[💻 GitHub](https://github.com/Paulon34)** · **[🤝 LinkedIn](https://www.linkedin.com/in/paulo-henrique-dev-fullstack/)** · **[✉️ E-mail](mailto:ph3073610@gmail.com)**
 
 <div align="center">
-
-<br/>
-
-<sub><code>paulo@ryoku:~$</code> construindo, conectando e automatizando tecnologia.</sub>
-
+  <img src="./assets/ronin-divider.svg" width="100%" alt="Ryoku Ronin Gold" />
+  <sub><code>paulo@ryoku:~$</code> Construindo, conectando e automatizando tecnologia. · 侍</sub>
 </div>
